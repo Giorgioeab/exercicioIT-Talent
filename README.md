@@ -1,5 +1,3 @@
-# exercicioIT-Talent
-
 # Bem-vindo à TechGlow
 
 
